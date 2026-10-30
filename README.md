@@ -147,5 +147,3 @@ Frontend: React with Redux for state management, Ant Design for UI.
 
 Deployment: Hosted on Vercel for live demo.
 
-📜 License
-This project is built for educational and hiring assignment purposes.
